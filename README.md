@@ -37,5 +37,5 @@
 > "Code is like poetry—it’s beautiful when it flows."  
 
 📬 Want to connect?  
-Feel free to reach out on [LinkedIn](#) or drop a message!
+Feel free to reach out on telegram  [@general_08](#) or drop a message!
 
