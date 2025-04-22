@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shahi Sabari</h1>
+<h1 align="center">Hi 👋, I'm javad nadri</h1>
 <h3 align="center">A passionate developer, UI/UX enthusiast, and script wizard 🧙‍♂️</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
